@@ -1,0 +1,9 @@
+--------------------Git Commands------------------
+token : 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
+
+
+
+git init
+git add .
+git status
+git commit -m <message>
