@@ -1,0 +1,52 @@
+Version control system
+- git hub 
+- Bit Bucket 
+
+
+Jenkins - Automation Server - We have other automation servers like Teamcity and Bamboo and others
+
+-------Application build and deployment-------
+- Maven based project builds
+  - java based microservices
+- Other project build like python 
+
+-------Configuarion Management ---------------
+- Ansible
+- Puppet
+- Chef
+- Others - your own scripts or any other tools
+
+------IaC-------
+Terraform - Cloud agnostic
+
+------Cloud-------
+GCP - Associate certification
+AWS
+
+-----Scriting----- 
+Python and UNIX shell scripting
+
+-----Containerization------
+Dockers 
+Kubernetes
+
+----Monitoring tools----
+Prometheus & Grafana
+Splunk
+
+----OS----
+Linux - Redhat/Ubuntu/ 
+Unix
+
+-----Question Bank------
+DevOps
+
+- Virtual box installation 
+- Github account
+- Ubuntu vm's from OS boxes
+- Ubuntu 20 for Jenkins server - local
+- GCP & AWS free tier 
+- Mu editor for python scripting
+
+
+-----SQL Queries & PL/SQL------
